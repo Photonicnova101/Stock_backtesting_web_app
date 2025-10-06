@@ -5,9 +5,16 @@ Stock_backtesting_web_app is a web-based platform for simulating and evaluating 
 
 
 
+download requirements:
+pip install -r requirements.txt
+
 
 
  Running virtual env powershell:
  venv\Scripts\Activate.ps1
  script to run streamlit:
  streamlit run src/app.py
+
+
+ Without venv:
+ python -m streamlit run src/app.py
