@@ -5,6 +5,9 @@ Stock_backtesting_web_app is a web-based platform for simulating and evaluating 
 
 
 
+download requirements:
+pip install -r requirements.txt
+
 
 
  Running virtual env powershell:
