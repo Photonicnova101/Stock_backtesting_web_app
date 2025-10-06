@@ -14,3 +14,7 @@ pip install -r requirements.txt
  venv\Scripts\Activate.ps1
  script to run streamlit:
  streamlit run src/app.py
+
+
+ Without venv:
+ python -m streamlit run src/app.py
